@@ -1,8 +1,8 @@
-👋 Hi, I'm Kevin Chau.
-🌱 I’m currently studying Computer Science at the University of Delaware and aiming for a Masters in Cyber Seucirty.
-🔭 I’m interested in Full Stack Web Development and Secure Software Design, ultimately striving to implement secure web design.
-👯 I’m looking to collaborate on any Full Stack Web Applications and to hopefully learn from others.
-📫 You can reach  me at: kevin.chau613@gmail.com
+-👋 Hi, I'm Kevin Chau.
+-🌱 I’m currently studying Computer Science at the University of Delaware and aiming for a Masters in Cyber Seucirty.
+-🔭 I’m interested in Full Stack Web Development and Secure Software Design, ultimately striving to implement secure web design.
+-👯 I’m looking to collaborate on any Full Stack Web Applications and to hopefully learn from others.
+-📫 You can reach  me at: kevin.chau613@gmail.com
 
 <!--
 **thekevinchau/thekevinchau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
